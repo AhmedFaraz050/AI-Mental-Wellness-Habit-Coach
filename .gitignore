@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (if you have user history or datasets)
+user_history/
+*.csv
+*.xlsx
+
+# Compiled extensions
+*.so
+*.dll
+*.exe
+*.pyd
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# pytest
+.pytest_cache/

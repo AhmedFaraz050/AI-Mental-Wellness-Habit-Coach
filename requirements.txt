@@ -1,0 +1,19 @@
+# FastAPI backend
+fastapi
+uvicorn[standard]
+pydantic
+
+# LangGraph & LLM
+langgraph
+langchain-google-genai
+langchain-core
+
+# Environment variables
+python-dotenv
+
+# Frontend
+streamlit
+requests
+
+# Optional visualization if needed
+plotly
