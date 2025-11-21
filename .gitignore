@@ -38,10 +38,7 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (if you have user history or datasets)
-user_history/
-*.csv
-*.xlsx
+
 
 # Compiled extensions
 *.so
