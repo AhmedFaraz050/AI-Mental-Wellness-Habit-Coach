@@ -15,5 +15,4 @@ python-dotenv
 streamlit
 requests
 
-# Optional visualization if needed
-plotly
+

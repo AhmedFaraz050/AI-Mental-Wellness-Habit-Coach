@@ -3,7 +3,7 @@ import requests
 
 # ------------------ Config ------------------
 st.set_page_config(page_title="💆 MindFlow Wellness Coach", page_icon="🧠", layout="wide")
-API_URL = "http://127.0.0.1:8000"  # FastAPI backend URL
+API_URL = "http://127.0.0.1:7000"  # FastAPI backend URL
 
 # ------------------ Header ------------------
 st.title("💆 MindFlow Mental Wellness Coach")
