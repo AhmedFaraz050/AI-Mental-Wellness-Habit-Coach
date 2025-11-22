@@ -12,7 +12,7 @@ import io
 
 # ------------------ CONFIG ------------------
 st.set_page_config(page_title="MindFlow Dashboard", page_icon="🧠", layout="wide")
-API_URL = "http://127.0.0.1:7000"  # change if needed
+API_URL = "https://ai-mental-wellness-habit-coach.onrender.com/"  # change if needed
 
 # ------------------ HELPERS ------------------
 def gen_dates(days=7):
