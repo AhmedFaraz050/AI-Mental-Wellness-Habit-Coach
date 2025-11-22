@@ -15,4 +15,4 @@ python-dotenv
 streamlit
 requests
 
-
+plotly
