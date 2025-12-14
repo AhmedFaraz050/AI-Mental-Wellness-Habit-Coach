@@ -136,17 +136,8 @@ streamlit run frontend/app.py
 * Perform stress testing for multiple concurrent users.
 
 ---
-
-## 💻 Demo
-
-![Demo GIF](demo.gif) *(Replace with your own GIF)*
-
----
-
 ## 📝 License
 
 MIT License © Ahmed Faraz
 
-.
 
-Do you want me to make that version too?
